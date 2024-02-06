@@ -23,3 +23,20 @@ To use the Binary State Tree project, you need:
 
 ```bash
 git clone https://github.com/jtwesthoff/Binary-State-Tree.git
+```
+
+2. Open the project in your preferred IDE.
+   - 'BST.java': Contains the implementation of the Binary Search Tree.
+   - 'BSTNode.java': Defines the structure of a binary search tree node.
+   - 'BSTTest.java': Includes test cases to verify the functionality of the BST.
+3. Run the 'BSTTest.java' file to execute the test cases.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
